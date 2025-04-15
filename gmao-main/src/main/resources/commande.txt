@@ -1,0 +1,54 @@
+code_projet,num_commande,date_commande,num_fournisseur,description_commande,devise,montant_commande,montant_recept
+null, 20230211, 2023-11-03 11:01:12, 207, LOCATION VEHICULE LONGUE DUREE PARC TME CONTRATS HORS MARCHE, MAD, 869449, 605341
+null, 20230207, 2023-10-27 15:58:56, 7883, Achats Capsule café Nespresso pro, MAD, 8250, 8250
+null, 20230205, 2023-10-26 14:55:09, 2131, Achats Produits cafétéria, MAD, 65674, 65673
+null, 20230202, 2023-10-24 15:07:07, 1433, Contrat TMSA_CT_08_23// Location Antivirus, MAD, 54792, 54792
+null, 20230198, 2023-10-17 15:44:17, 9254, Mise à disposition des ressources, MAD, 876000, 375000
+null, 20230191, 2023-10-06 11:51:49, 8198, Etudes architecturales de l'unité industrielle KWANGJIN à TAC2, MAD, 220000, 0
+null, 20230190, 2023-10-06 11:48:13, 8198, Etudes architecturales Parking TVR phase 3, MAD, 1200000, 0
+null, 20230189, 2023-10-06 11:43:58, 8198, Etudes architecturales et suivi des travaux d'aménagement du Club TM Phase 3, MAD, 45000, 0
+null, 20230188, 2023-10-06 10:32:55, 9344, CONTRAT N°TME_CT_04_23 / CAMPAGNE GEOPHYSIQUE A TANGER MED, EUR, 171904, 99049
+null, 20230186, 2023-10-04 12:14:36, 2647, Hebergement + RESTAURATION-Hôtel RAMADA ENCORE TANGER, MAD, 150000, 21079
+null, 20230185, 2023-10-03 10:51:25, 7524, Achats Postes Workstation/ Demande nouvelle offre	, MAD, 254000, 143200
+null, 20230183, 2023-09-26 11:01:27, 9357, Tanger Med II Expansion Study, EUR, 68000, 67993
+null, 20230182, 2023-09-22 16:52:28, 9377, Etude d'aménagement portuaire, MAD, 180000, 180000
+null, 20230178, 2023-09-12 11:39:42, 2735, null, MAD, 891600, 445800
+null, 20230176, 2023-09-08 18:09:46, 207, TMSA_CT_02_23/ LOCATION LONGUE DUREE DES VEHICULES 100% ELECTRIQUES, MAD, 995760, 62327
+null, 20230162, 2023-08-23 13:55:35, 5415, CONTRAT N° TME_CT_02_23/  ACHATS DE FOURNITURES DE BUREAU POUR LE COMPTE DE TME-LOT N°2 , MAD, 337000, 72325
+null, 20230154, 2023-08-08 14:27:47, 5879, Traduction des documents, MAD, 9300, 9300
+null, 20230144, 2023-07-21 17:14:45, 3460, PRESTATIONS DE BILLETS D'AVIO & RESERVATIONS D'HOTELS, MAD, 2000000, 1561594
+null, 20230143, 2023-07-20 10:02:31, 2456, Billets d'avion & réservations d'hôtel, MAD, 2500000, 523102
+null, 20230140, 2023-07-20 09:24:59, 7773, ACCOMPAGNEMENT RH POUR LE DEVELOPPEMENT PERSONNEL ET COLLECTIF DES EMPLOYES DU GROUPE TM-PERSONNEL TME, MAD, 244900, 68069
+null, 20230136, 2023-07-06 13:58:09, 207, Voiture de type Audi A4; ou similaire , MAD, 8000, 8000
+null, 20230135, 2023-07-06 12:51:27, 7127, Accompagnement de TME dans ses missions de conseil stratégique et l'élaboration d'offres, MAD, 399000, 99750
+null, 20230129, 2023-06-22 15:17:00, 8466, CONSEIL RH SUR LA GESTION DES EQUIPES DELOCALISEES DE TME, MAD, 112500, 37500
+null, 20230128, 2023-06-21 11:42:41, 8048, RELIQUAT COMMANDE 20210074 2 EME LIGNE, MAD, 26500, 26500
+null, 20230127, 2023-06-20 17:49:51, 368, Reliquat Commande 20210032, MAD, 22000, 22000
+null, 20230126, 2023-06-20 17:40:45, 368, Formation accréditée CQI-IRCA, MAD, 9000, 9000
+null, 20230122, 2023-06-19 11:49:55, 9229, Mise à disposition ingénieur Owendo Container, EUR, 13898, 7941
+null, 20230119, 2023-06-15 15:56:24, 7474, Etude d'impact de la mise en place de nouvelles infrastructures de transport sur le coût et le volume des exportations guinéennes de bauxite.*, MAD, 1200000, 800000
+null, 20230118, 2023-06-15 15:44:39, 8198, Etudes architecturales d'un espace détente; Blocs sanitaires et Ombragés au PTMP Total, MAD, 250000, 0
+TZ067, 20230117, 2023-06-15 12:22:33, 198, CONTRAT N°TME_CT_04_23 / CAMPAGNE GEOPHYSIQUE A TANGER MED, MAD, 2841130, 1799999
+null, 20230112, 2023-06-07 12:17:05, 5879, Traduction Documents, MAD, 30000, 9300
+null, 20230110, 2023-06-06 13:58:41, 1760, Eau & électricité, EUR, 8000, 6088
+null, 20230107, 2023-05-30 10:40:41, 6806, null, MAD, 160000, 146666
+TZ183, 20230103, 2023-05-19 16:03:19, 9155, Faisabilité de la réalisation d'une infrastructure d'alimentation en H2 des engins sur le port de Tanger Med, EUR, 30000, 30000
+null, 20230099, 2023-05-09 16:04:41, 7616, Levé bathymétrique au sondeur Monofaisceau au niveau du L'ile de Gonzalez et à Dobli ( Guinée), EUR, 130432, 69416
+null, 20230098, 2023-05-03 17:27:05, 8556, Teambuilding & Coaching, MAD, 120000, 100000
+null, 20230097, 2023-04-21 15:21:39, 8769, FOURNITURE DE SERVICE DE COMMUNICATION ET D'INTELLIGENCE ECONOMIQUE, EUR, 69000, 24000
+null, 20230093, 2023-04-19 11:46:04, 7998, Chargement provision relative au AU CONTRAT   N° TME _ CT_01_2022 AVENANT N° 1 / REALISATION DES PRESTATIONS MULTISERVICES POUR LE COMPTE DE TMSA ET SES FILIALES 2-ème année, MAD, 3745719, 1404139
+HH044, 20230089, 2023-04-17 14:32:56, 5748, Mobilisation de l'ingénieur Résident, MAD, 2544000, 682400
+null, 20230088, 2023-04-14 10:47:33, 9025, Mise à Disposition d'Un Ingénieur  Résident Principal pour la mise en  place et suivi des projets de  digitalisation, MAD, 540000, 315000
+HH074, 20230087, 2023-04-11 14:57:12, 9081, null, MAD, 400000, 280000
+null, 20230082, 2023-04-06 14:59:27, 6742, Mise à disposition d'un minibus pour le transport du personnel administrative entre Tanger Ville et TME, MAD, 138600, 132300
+null, 20230081, 2023-04-06 10:52:59, 2525, LOCATION IP-PHONE POSTE Année 2023, MAD, 51612, 43010
+null, 20230071, 2023-03-13 12:34:21, 2525, ORTINET FG101ETK18003374 UTP 2022-12-02 To 2025-12-01, MAD, 78625, 78625
+null, 20230068, 2023-03-10 11:50:37, 3650, Publication jeune Afrique, EUR, 24116, 24116
+HZ028, 20230058, 2023-02-27 16:42:00, 8864, Consultant agronome ZES/ Niger, MAD, 67500, 67500
+null, 20230057, 2023-02-27 12:42:53, 9000, Restauration personnel / PETROFIB, MAD, 576000, 131112
+null, 20230054, 2023-02-23 15:36:48, 5814, CONTRAT TMSA_CT_08B_18 / MISE A DISPOSITION EN LOCATION DES IMPRIMENTES POUR TMSA 2022, MAD, 110010, 74765
+null, 20230053, 2023-02-23 15:06:28, 2076, Restauration des invités l'ocean, MAD, 20000, 13170
+null, 20230050, 2023-02-22 17:33:03, 7958, Saisie Contrat / Mise à  disposition d'un ingénieur sénior;  pour les projets de SAS Import 2 EME ANNEE, MAD, 540000, 360000
+null, 20230049, 2023-02-22 17:26:24, 2503, COMMANDE STANDARD 20210037 (MAZARS), MAD, 210000, 105600
+null, 20230047, 2023-02-22 10:11:09, 594,  3 ANS D'ABONNEMENT AXONE   TANGER MED ENGINEERING, MAD, 29400, 19600
+null, 20230045, 2023-02-13 11:43:17, 5813, TME_CT_ 01 _21/REALISATION DE LA  PRESTATION DE NETTOYAGE DES LOCAUX  DE TME 2023, MAD, 253662, 232523
